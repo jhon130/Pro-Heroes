@@ -11,10 +11,10 @@ Union is a sample multiplayer online battle arena (MOBA) game for mobile devices
   * Populate PlayFab account details with Facebook data (profile picture, account name)
 * Use PlayFab TitleData as a string table for 'hot-loading' your game's text content
 * Making Google Play IAP requests and validating the receipt with PlayFab
-* Example of how to create real-time multiplayer MOBA with Photon PUN
+* Example of how to create real-time multiplayer MOBA with Photon Turnbased SDK
   * Simple game system examples (movement, combat, defense towers, UI, AI)
   * Dual touchscreen input for mobile platforms
-  * Photon networking implementation using PUN, with extensive examples of Views, Syncs and RPCs
+  * Photon networking implementation using thier Turnbased SDK, with extensive examples of Views, Syncs and RPCs
   * In-game store for character upgrades 
   * Kills and win/loss ratios are tracked via PlayFab PlayerStatistics
   * Compare your stats to others via PlayFab Leaderboards
@@ -24,7 +24,7 @@ Union is a sample multiplayer online battle arena (MOBA) game for mobile devices
 ----
 To get the most from these samples you should:
 * Be familiar with the basics of PlayFab 
-* Be familiar with the basics of Photon (PUN)
+* Be familiar with the basics of Photon (Turnbased)
 * Play:
   * For best results: 
     * Have the ability to build and deploy to an android device (.apk provided as an alternative)
@@ -53,7 +53,7 @@ This repository contains the entire Unity3d project.
 #### 3rd Party Plugins:
 | Class        | Function           | External Site  |
 | ------------- | ------------- | ----- |
-| Photon (PUN) | SDK for accessing networking features | https://www.photonengine.com/en/PUN |
+| Photon (Turnbased) | SDK for accessing networking features | https://www.photonengine.com/en/Turnbased |
 | OpenIAB      | SDK for accessing native billing APIs   | https://github.com/onepf/OpenIAB |
 | Unity-GCM | SDK for registering to the GCM service | https://github.com/kobakei/unity-gcm |
 | Facebook | SDK for accessing Facebook APIs | https://developers.facebook.com/docs/unity |
@@ -80,8 +80,9 @@ This repository contains the entire Unity3d project.
 
 4. Installation & Configuration Instructions:
 ----
-After downloading, the Unity project will be under the Project folder.
-If some errors occurs, it is recommended to delete the folder Photon Unity Networking, and re-import the plugin PUN from Asset Store.
+After downloading, the Unity project will be under the Unity 5.1 Source Project > Project > folder.
+Some errors and warnings will appear, but none should be project breaking. Let us know if you experience build-breaking errors when importing the project.  
+
 
 ##### How to run the game in editor mode:
 * This requires you to have access to a Facebook developer account
@@ -144,7 +145,7 @@ Our Developer Success Team can assist with answering any questions as well as pr
 
 #### Known Issues:
 * Complete build for Android only. Building to other platforms may not work as expected
-* PUN does not currently support Photon webhooks
+* PUN does not currently support Photon webhooks, Only the Photon Turnbased SKD is configured to forward webhooks.
 * PlayerName & HealthBar UI sometimes separate from the actor GameObject
 * TouchScreen joystick UI is not under the touch
 
@@ -158,9 +159,4 @@ Our Developer Success Team can assist with answering any questions as well as pr
 
 #### Special Thanks
 * Union MOBA was developed for PlayFab by [Flux Studios](http://www.fluxgamestudio.com/)
-
-
-8. Version History:
-----
-* (v1.00) Initial Release
 
