@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 10ae12365f29eae47b1c3f4a9ad82afb
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: aroReguladorSuporteGravitacional
+    100002: aroReguladorSuporteGravitacional 1
+    100004: aroReguladorSuporteGravitacional 2
+    100006: aroSuporteGravitacionalBase
+    100008: aroSuporteGravitacionalBase 1
+    100010: aroSuporteGravitacionalBase 2
+    100012: Base_Inferior
+    100014: Base_Superior
+    100016: Cabine
+    100018: esferaEnergiaSuperior
+    100020: esferaEnergiaSuperior 1
+    100022: esferaEnergiaSuperior 2
+    100024: flap_dir
+    100026: flap_esq
+    100028: pezinhoSuportePouso_back
+    100030: pezinhoSuportePouso_dir
+    100032: pezinhoSuportePouso_esq
+    100034: pezinhoSuportePouso_front
+    100036: //RootNode
+    100038: Suportede_pouso
+    100040: SuporteGravitacional_Inferior_dir
+    100042: SuporteGravitacional_inferior_esq
+    100044: SuporteGravitacional_Superior
+    400000: aroReguladorSuporteGravitacional
+    400002: aroReguladorSuporteGravitacional 1
+    400004: aroReguladorSuporteGravitacional 2
+    400006: aroSuporteGravitacionalBase
+    400008: aroSuporteGravitacionalBase 1
+    400010: aroSuporteGravitacionalBase 2
+    400012: Base_Inferior
+    400014: Base_Superior
+    400016: Cabine
+    400018: esferaEnergiaSuperior
+    400020: esferaEnergiaSuperior 1
+    400022: esferaEnergiaSuperior 2
+    400024: flap_dir
+    400026: flap_esq
+    400028: pezinhoSuportePouso_back
+    400030: pezinhoSuportePouso_dir
+    400032: pezinhoSuportePouso_esq
+    400034: pezinhoSuportePouso_front
+    400036: //RootNode
+    400038: Suportede_pouso
+    400040: SuporteGravitacional_Inferior_dir
+    400042: SuporteGravitacional_inferior_esq
+    400044: SuporteGravitacional_Superior
+    2300000: aroReguladorSuporteGravitacional
+    2300002: aroReguladorSuporteGravitacional 1
+    2300004: aroReguladorSuporteGravitacional 2
+    2300006: aroSuporteGravitacionalBase
+    2300008: aroSuporteGravitacionalBase 1
+    2300010: aroSuporteGravitacionalBase 2
+    2300012: Base_Inferior
+    2300014: Base_Superior
+    2300016: Cabine
+    2300018: esferaEnergiaSuperior
+    2300020: esferaEnergiaSuperior 1
+    2300022: esferaEnergiaSuperior 2
+    2300024: flap_dir
+    2300026: flap_esq
+    2300028: pezinhoSuportePouso_back
+    2300030: pezinhoSuportePouso_dir
+    2300032: pezinhoSuportePouso_esq
+    2300034: pezinhoSuportePouso_front
+    2300036: Suportede_pouso
+    3300000: aroReguladorSuporteGravitacional
+    3300002: aroReguladorSuporteGravitacional 1
+    3300004: aroReguladorSuporteGravitacional 2
+    3300006: aroSuporteGravitacionalBase
+    3300008: aroSuporteGravitacionalBase 1
+    3300010: aroSuporteGravitacionalBase 2
+    3300012: Base_Inferior
+    3300014: Base_Superior
+    3300016: Cabine
+    3300018: esferaEnergiaSuperior
+    3300020: esferaEnergiaSuperior 1
+    3300022: esferaEnergiaSuperior 2
+    3300024: flap_dir
+    3300026: flap_esq
+    3300028: pezinhoSuportePouso_back
+    3300030: pezinhoSuportePouso_dir
+    3300032: pezinhoSuportePouso_esq
+    3300034: pezinhoSuportePouso_front
+    3300036: Suportede_pouso
+    4300000: Cabine
+    4300002: pezinhoSuportePouso_esq
+    4300004: pezinhoSuportePouso_front
+    4300006: pezinhoSuportePouso_dir
+    4300008: pezinhoSuportePouso_back
+    4300010: Base_Inferior
+    4300012: Suportede_pouso
+    4300014: Base_Superior
+    4300016: flap_esq
+    4300018: flap_dir
+    4300020: aroReguladorSuporteGravitacional
+    4300022: aroSuporteGravitacionalBase
+    4300024: esferaEnergiaSuperior
+    4300026: aroReguladorSuporteGravitacional
+    4300028: aroSuporteGravitacionalBase
+    4300030: esferaEnergiaSuperior
+    4300032: aroReguladorSuporteGravitacional
+    4300034: aroSuporteGravitacionalBase
+    4300036: esferaEnergiaSuperior
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .400000006
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,549 @@
+fileFormatVersion: 2
+guid: 869e4da20736b9a4ab393eb38a68a176
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bt_circle
+    21300002: bt_fullRect
+    21300004: bt_fullRect_title
+    21300006: option_contentBg
+    21300008: Popup content
+    21300010: Popuo_Title
+    21300012: option_conbtentHeader
+    21300014: HUD_bg
+    21300016: PD_ammo
+    21300018: PD_ring
+    21300020: HUD_yourLife
+    21300022: HUD_enemyLife
+    21300024: option_aba
+    21300026: PD_lifeBar
+    21300028: PD_lifeBar_over
+    21300030: PD_bg
+    21300032: statistics
+    21300034: mount_of_coins
+    21300036: guns
+    21300038: shield
+    21300040: config
+    21300042: arrowUP
+    21300044: atk
+    21300046: store
+    21300048: play
+    21300050: profile
+    21300052: arrowRight
+    21300054: logout
+    21300056: exit
+    21300058: facebook_icon
+    21300060: check
+    21300062: music_on
+    21300064: sound_on
+    21300066: loading
+    21300068: Loading
+    21300070: Orange_BG
+    21300072: Blue_BG
+    21300074: header
+    21300076: talk_ballon
+    21300078: music_off
+    21300080: audio_off
+    21300082: plusIcon
+    21300084: HP_Icon
+    21300086: Speed_Icon
+    21300088: Damage_Icon
+    21300090: Clip_Icon
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 1
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 0
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bt_circle
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1862
+        width: 168
+        height: 169
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bt_fullRect
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1509
+        width: 1013
+        height: 434
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 623, y: 20, z: 38, w: 0}
+    - name: bt_fullRect_title
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1508
+        width: 1013
+        height: 522
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 622, y: 21, z: 36, w: 86}
+    - name: option_contentBg
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1873
+        width: 613
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 22, z: 24, w: 98}
+    - name: Popup content
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1480
+        width: 69
+        height: 374
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 29, y: 0, z: 26, w: 0}
+    - name: Popuo_Title
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1736
+        width: 497
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 228, y: 37, z: 178, w: 43}
+    - name: option_conbtentHeader
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1599
+        width: 629
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HUD_bg
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1318
+        width: 614
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PD_ammo
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1340
+        width: 242
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PD_ring
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1271
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HUD_yourLife
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1182
+        width: 162
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HUD_enemyLife
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1179
+        width: 162
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: option_aba
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1097
+        width: 99
+        height: 197
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 18, y: 6, z: 6, w: 5}
+    - name: PD_lifeBar
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1148
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PD_lifeBar_over
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 954
+        width: 176
+        height: 174
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PD_bg
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1088
+        width: 176
+        height: 184
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: statistics
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1361
+        width: 93
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mount_of_coins
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1340
+        width: 134
+        height: 119
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guns
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 1358
+        width: 123
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shield
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 1356
+        width: 92
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: config
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 1436
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowUP
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 1343
+        width: 125
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atk
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 1290
+        width: 101
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: store
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 883
+        width: 314
+        height: 354
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: play
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 927
+        width: 282
+        height: 325
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: profile
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 929
+        width: 366
+        height: 352
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowRight
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 1467
+        width: 55
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: logout
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 773
+        width: 120
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: exit
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 752
+        width: 140
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: facebook_icon
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 568
+        width: 276
+        height: 276
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: check
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 784
+        width: 133
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: music_on
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 767
+        width: 121
+        height: 133
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sound_on
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 776
+        width: 115
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Loading
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 978
+        width: 152
+        height: 164
+      alignment: 9
+      pivot: {x: .522563338, y: .475414008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orange_BG
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 876
+        width: 179
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 30, y: 59, z: 28, w: 69}
+    - name: Blue_BG
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 776
+        width: 179
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 26, y: 54, z: 23, w: 64}
+    - name: header
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 754
+        width: 147
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 20, y: 0, z: 19, w: 0}
+    - name: talk_ballon
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1022
+        width: 115
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: music_off
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 609
+        width: 140
+        height: 133
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: audio_off
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 630
+        width: 58
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plusIcon
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 596
+        width: 143
+        height: 142
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HP_Icon
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 598
+        width: 137
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speed_Icon
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 397
+        width: 250
+        height: 173
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Damage_Icon
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 417
+        width: 226
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Clip_Icon
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 624
+        width: 104
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

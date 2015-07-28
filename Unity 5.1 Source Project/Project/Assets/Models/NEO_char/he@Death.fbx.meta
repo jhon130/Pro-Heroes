@@ -1,0 +1,365 @@
+fileFormatVersion: 2
+guid: 51a3805e2c6fa534eb0be0ef878dd574
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: armor_l
+    100002: armor_l1
+    100004: calf_l
+    100006: calf_l1
+    100008: chest
+    100010: clavicule_l
+    100012: clavicule_l1
+    100014: COG
+    100016: feet_2_l
+    100018: feet_2_l1
+    100020: feet_l
+    100022: feet_l1
+    100024: feet_nub_l
+    100026: feet_nub_l1
+    100028: finger_11_l
+    100030: finger_11_l1
+    100032: finger_12_l
+    100034: finger_12_l1
+    100036: finger_13_l
+    100038: finger_13_l1
+    100040: finger_21_l
+    100042: finger_21_l1
+    100044: finger_22_l
+    100046: finger_22_l1
+    100048: finger_23_l
+    100050: finger_23_l1
+    100052: finger_31_l
+    100054: finger_31_l1
+    100056: finger_32_l
+    100058: finger_32_l1
+    100060: finger_33_l
+    100062: finger_33_l1
+    100064: finger_41_l
+    100066: finger_41_l1
+    100068: finger_42_l
+    100070: finger_42_l1
+    100072: finger_43_l
+    100074: finger_43_l1
+    100076: forearm_l
+    100078: forearm_l1
+    100080: hand_l
+    100082: hand_l1
+    100084: //RootNode
+    100086: he_bracelet_mesh
+    100088: he_equipe_mesh
+    100090: he_mesh
+    100092: head
+    100094: jaw
+    100096: jaw_nub
+    100098: neck
+    100100: pelvez
+    100102: pelvez_nub
+    100104: pipe_1
+    100106: pipe_2
+    100108: pipe_3
+    100110: pipe_4
+    100112: pipe_5
+    100114: pipe_6
+    100116: pipe_7
+    100118: pipe_8
+    100120: spline_1
+    100122: spline_2
+    100124: thigh_l
+    100126: thigh_l1
+    100128: upperarm_l
+    100130: upperarm_l1
+    100132: upperarm_nub_l
+    100134: upperarm_nub_l1
+    400000: armor_l
+    400002: armor_l1
+    400004: calf_l
+    400006: calf_l1
+    400008: chest
+    400010: clavicule_l
+    400012: clavicule_l1
+    400014: COG
+    400016: feet_2_l
+    400018: feet_2_l1
+    400020: feet_l
+    400022: feet_l1
+    400024: feet_nub_l
+    400026: feet_nub_l1
+    400028: finger_11_l
+    400030: finger_11_l1
+    400032: finger_12_l
+    400034: finger_12_l1
+    400036: finger_13_l
+    400038: finger_13_l1
+    400040: finger_21_l
+    400042: finger_21_l1
+    400044: finger_22_l
+    400046: finger_22_l1
+    400048: finger_23_l
+    400050: finger_23_l1
+    400052: finger_31_l
+    400054: finger_31_l1
+    400056: finger_32_l
+    400058: finger_32_l1
+    400060: finger_33_l
+    400062: finger_33_l1
+    400064: finger_41_l
+    400066: finger_41_l1
+    400068: finger_42_l
+    400070: finger_42_l1
+    400072: finger_43_l
+    400074: finger_43_l1
+    400076: forearm_l
+    400078: forearm_l1
+    400080: hand_l
+    400082: hand_l1
+    400084: //RootNode
+    400086: he_bracelet_mesh
+    400088: he_equipe_mesh
+    400090: he_mesh
+    400092: head
+    400094: jaw
+    400096: jaw_nub
+    400098: neck
+    400100: pelvez
+    400102: pelvez_nub
+    400104: pipe_1
+    400106: pipe_2
+    400108: pipe_3
+    400110: pipe_4
+    400112: pipe_5
+    400114: pipe_6
+    400116: pipe_7
+    400118: pipe_8
+    400120: spline_1
+    400122: spline_2
+    400124: thigh_l
+    400126: thigh_l1
+    400128: upperarm_l
+    400130: upperarm_l1
+    400132: upperarm_nub_l
+    400134: upperarm_nub_l1
+    4300000: he_mesh
+    4300002: he_equipe_mesh
+    4300004: he_bracelet_mesh
+    7400000: Death
+    9500000: //RootNode
+    13700000: he_bracelet_mesh
+    13700002: he_equipe_mesh
+    13700004: he_mesh
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Death
+      takeName: He_Death
+      firstFrame: 1
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: COG
+        weight: 1
+      - path: COG/pelvez
+        weight: 1
+      - path: COG/pelvez/pelvez_nub
+        weight: 1
+      - path: COG/spline_1
+        weight: 1
+      - path: COG/spline_1/chest
+        weight: 1
+      - path: COG/spline_1/chest/armor_l
+        weight: 1
+      - path: COG/spline_1/chest/armor_l1
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l/upperarm_l
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l/upperarm_l/forearm_l
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l/upperarm_l/forearm_l/hand_l
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l/upperarm_l/forearm_l/hand_l/finger_11_l
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l/upperarm_l/forearm_l/hand_l/finger_11_l/finger_12_l
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l/upperarm_l/forearm_l/hand_l/finger_11_l/finger_12_l/finger_13_l
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l/upperarm_l/forearm_l/hand_l/finger_21_l
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l/upperarm_l/forearm_l/hand_l/finger_21_l/finger_22_l
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l/upperarm_l/forearm_l/hand_l/finger_21_l/finger_22_l/finger_23_l
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l/upperarm_l/forearm_l/hand_l/finger_31_l
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l/upperarm_l/forearm_l/hand_l/finger_31_l/finger_32_l
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l/upperarm_l/forearm_l/hand_l/finger_31_l/finger_32_l/finger_33_l
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l/upperarm_l/forearm_l/hand_l/finger_41_l
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l/upperarm_l/forearm_l/hand_l/finger_41_l/finger_42_l
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l/upperarm_l/forearm_l/hand_l/finger_41_l/finger_42_l/finger_43_l
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l/upperarm_l/upperarm_nub_l
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l1
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l1/upperarm_l1
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l1/upperarm_l1/forearm_l1
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l1/upperarm_l1/forearm_l1/hand_l1
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l1/upperarm_l1/forearm_l1/hand_l1/finger_11_l1
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l1/upperarm_l1/forearm_l1/hand_l1/finger_11_l1/finger_12_l1
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l1/upperarm_l1/forearm_l1/hand_l1/finger_11_l1/finger_12_l1/finger_13_l1
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l1/upperarm_l1/forearm_l1/hand_l1/finger_21_l1
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l1/upperarm_l1/forearm_l1/hand_l1/finger_21_l1/finger_22_l1
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l1/upperarm_l1/forearm_l1/hand_l1/finger_21_l1/finger_22_l1/finger_23_l1
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l1/upperarm_l1/forearm_l1/hand_l1/finger_31_l1
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l1/upperarm_l1/forearm_l1/hand_l1/finger_31_l1/finger_32_l1
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l1/upperarm_l1/forearm_l1/hand_l1/finger_31_l1/finger_32_l1/finger_33_l1
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l1/upperarm_l1/forearm_l1/hand_l1/finger_41_l1
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l1/upperarm_l1/forearm_l1/hand_l1/finger_41_l1/finger_42_l1
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l1/upperarm_l1/forearm_l1/hand_l1/finger_41_l1/finger_42_l1/finger_43_l1
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l1/upperarm_l1/pipe_1
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l1/upperarm_l1/pipe_1/pipe_2
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l1/upperarm_l1/pipe_1/pipe_2/pipe_3
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l1/upperarm_l1/pipe_1/pipe_2/pipe_3/pipe_4
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l1/upperarm_l1/pipe_1/pipe_2/pipe_3/pipe_4/pipe_5
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l1/upperarm_l1/pipe_1/pipe_2/pipe_3/pipe_4/pipe_5/pipe_6
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l1/upperarm_l1/pipe_1/pipe_2/pipe_3/pipe_4/pipe_5/pipe_6/pipe_7
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l1/upperarm_l1/pipe_1/pipe_2/pipe_3/pipe_4/pipe_5/pipe_6/pipe_7/pipe_8
+        weight: 1
+      - path: COG/spline_1/chest/clavicule_l1/upperarm_l1/upperarm_nub_l1
+        weight: 1
+      - path: COG/spline_1/chest/neck
+        weight: 1
+      - path: COG/spline_1/chest/neck/head
+        weight: 1
+      - path: COG/spline_1/chest/neck/jaw
+        weight: 1
+      - path: COG/spline_1/chest/neck/jaw/jaw_nub
+        weight: 1
+      - path: COG/spline_1/chest/spline_2
+        weight: 1
+      - path: COG/thigh_l
+        weight: 1
+      - path: COG/thigh_l/calf_l
+        weight: 1
+      - path: COG/thigh_l/calf_l/feet_l
+        weight: 1
+      - path: COG/thigh_l/calf_l/feet_l/feet_2_l
+        weight: 1
+      - path: COG/thigh_l/calf_l/feet_l/feet_2_l/feet_nub_l
+        weight: 1
+      - path: COG/thigh_l1
+        weight: 1
+      - path: COG/thigh_l1/calf_l1
+        weight: 1
+      - path: COG/thigh_l1/calf_l1/feet_l1
+        weight: 1
+      - path: COG/thigh_l1/calf_l1/feet_l1/feet_2_l1
+        weight: 1
+      - path: COG/thigh_l1/calf_l1/feet_l1/feet_2_l1/feet_nub_l1
+        weight: 1
+      - path: he_bracelet_mesh
+        weight: 1
+      - path: he_equipe_mesh
+        weight: 1
+      - path: he_mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

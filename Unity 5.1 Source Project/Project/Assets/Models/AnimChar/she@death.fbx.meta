@@ -1,0 +1,314 @@
+fileFormatVersion: 2
+guid: e356680297f51554487d35b740732cc7
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: joint1
+    100002: joint10
+    100004: joint11
+    100006: joint12
+    100008: joint13
+    100010: joint14
+    100012: joint15
+    100014: joint16
+    100016: joint17
+    100018: joint18
+    100020: joint19
+    100022: joint2
+    100024: joint20
+    100026: joint21
+    100028: joint22
+    100030: joint23
+    100032: joint24
+    100034: joint25
+    100036: joint26
+    100038: joint27
+    100040: joint28
+    100042: joint29
+    100044: joint3
+    100046: joint30
+    100048: joint31
+    100050: joint32
+    100052: joint33
+    100054: joint34
+    100056: joint35
+    100058: joint36
+    100060: joint37
+    100062: joint38
+    100064: joint39
+    100066: joint4
+    100068: joint40
+    100070: joint41
+    100072: joint42
+    100074: joint43
+    100076: joint44
+    100078: joint45
+    100080: joint5
+    100082: joint6
+    100084: joint7
+    100086: joint8
+    100088: joint9
+    100090: //RootNode
+    100092: she_body
+    100094: she_carga
+    100096: she_eye_l
+    100098: she_eye_r
+    100100: she_head
+    100102: shegun
+    100104: nurbsCircle1
+    100106: nurbsCircle2
+    400000: joint1
+    400002: joint10
+    400004: joint11
+    400006: joint12
+    400008: joint13
+    400010: joint14
+    400012: joint15
+    400014: joint16
+    400016: joint17
+    400018: joint18
+    400020: joint19
+    400022: joint2
+    400024: joint20
+    400026: joint21
+    400028: joint22
+    400030: joint23
+    400032: joint24
+    400034: joint25
+    400036: joint26
+    400038: joint27
+    400040: joint28
+    400042: joint29
+    400044: joint3
+    400046: joint30
+    400048: joint31
+    400050: joint32
+    400052: joint33
+    400054: joint34
+    400056: joint35
+    400058: joint36
+    400060: joint37
+    400062: joint38
+    400064: joint39
+    400066: joint4
+    400068: joint40
+    400070: joint41
+    400072: joint42
+    400074: joint43
+    400076: joint44
+    400078: joint45
+    400080: joint5
+    400082: joint6
+    400084: joint7
+    400086: joint8
+    400088: joint9
+    400090: //RootNode
+    400092: she_body
+    400094: she_carga
+    400096: she_eye_l
+    400098: she_eye_r
+    400100: she_head
+    400102: shegun
+    400104: nurbsCircle1
+    400106: nurbsCircle2
+    2300000: she_eye_l
+    2300002: she_eye_r
+    2300004: shegun
+    3300000: she_eye_l
+    3300002: she_eye_r
+    3300004: shegun
+    4300000: she_carga
+    4300002: she_body
+    4300004: she_head
+    4300006: she_eye_l
+    4300008: she_eye_r
+    4300010: shegun
+    7400000: death
+    9500000: //RootNode
+    13700000: she_body
+    13700002: she_carga
+    13700004: she_head
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: death
+      takeName: she_death
+      firstFrame: 1
+      lastFrame: 53
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint3
+        weight: 1
+      - path: joint1/joint3/joint4
+        weight: 1
+      - path: joint1/joint3/joint4/joint5
+        weight: 1
+      - path: joint1/joint3/joint4/she_eye_l
+        weight: 1
+      - path: joint1/joint3/joint4/she_eye_r
+        weight: 1
+      - path: joint1/joint3/joint6
+        weight: 1
+      - path: joint1/joint3/joint6/joint7
+        weight: 1
+      - path: joint1/joint3/joint6/joint7/joint8
+        weight: 1
+      - path: joint1/joint3/joint6/joint7/joint8/joint9
+        weight: 1
+      - path: joint1/joint3/joint6/joint7/joint8/joint9/joint10
+        weight: 1
+      - path: joint1/joint3/joint6/joint7/joint8/joint9/joint10/joint11
+        weight: 1
+      - path: joint1/joint3/joint6/joint7/joint8/joint9/joint12
+        weight: 1
+      - path: joint1/joint3/joint6/joint7/joint8/joint9/joint12/joint13
+        weight: 1
+      - path: joint1/joint3/joint6/joint7/joint8/joint9/joint14
+        weight: 1
+      - path: joint1/joint3/joint6/joint7/joint8/joint9/joint14/joint15
+        weight: 1
+      - path: joint1/joint3/joint6/joint7/joint8/joint9/joint16
+        weight: 1
+      - path: joint1/joint3/joint6/joint7/joint8/joint9/joint16/joint17
+        weight: 1
+      - path: joint1/joint3/joint22
+        weight: 1
+      - path: joint1/joint3/joint22/joint23
+        weight: 1
+      - path: joint1/joint3/joint22/joint23/joint24
+        weight: 1
+      - path: joint1/joint3/joint22/joint23/joint24/joint25
+        weight: 1
+      - path: joint1/joint3/joint22/joint23/joint24/joint25/joint26
+        weight: 1
+      - path: joint1/joint3/joint22/joint23/joint24/joint25/joint26/joint27
+        weight: 1
+      - path: joint1/joint3/joint22/joint23/joint24/joint25/joint26/joint27/joint28
+        weight: 1
+      - path: joint1/joint3/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29
+        weight: 1
+      - path: joint1/joint3/joint30
+        weight: 1
+      - path: joint1/joint3/joint30/joint31
+        weight: 1
+      - path: joint1/joint3/joint30/joint31/joint32
+        weight: 1
+      - path: joint1/joint3/joint30/joint31/joint32/joint33
+        weight: 1
+      - path: joint1/joint3/joint30/joint31/joint32/joint33/joint34
+        weight: 1
+      - path: joint1/joint3/joint30/joint31/joint32/joint33/joint34/joint35
+        weight: 1
+      - path: joint1/joint3/joint30/joint31/joint32/joint33/joint36
+        weight: 1
+      - path: joint1/joint3/joint30/joint31/joint32/joint33/joint36/joint37
+        weight: 1
+      - path: joint1/joint3/joint30/joint31/joint32/joint33/joint38
+        weight: 1
+      - path: joint1/joint3/joint30/joint31/joint32/joint33/joint38/joint39
+        weight: 1
+      - path: joint1/joint3/joint30/joint31/joint32/joint33/joint40
+        weight: 1
+      - path: joint1/joint3/joint30/joint31/joint32/joint33/joint40/joint41
+        weight: 1
+      - path: joint1/joint3/joint30/joint31/joint32/joint33/shegun
+        weight: 1
+      - path: joint1/joint18
+        weight: 1
+      - path: joint1/joint18/joint19
+        weight: 1
+      - path: joint1/joint18/joint19/joint20
+        weight: 1
+      - path: joint1/joint18/joint19/joint20/joint21
+        weight: 1
+      - path: joint1/joint42
+        weight: 1
+      - path: joint1/joint42/joint43
+        weight: 1
+      - path: joint1/joint42/joint43/joint44
+        weight: 1
+      - path: joint1/joint42/joint43/joint44/joint45
+        weight: 1
+      - path: she_body
+        weight: 1
+      - path: she_carga
+        weight: 1
+      - path: she_head
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: joint1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 94bea4c8f2e5cb8468be6e3dde1c352e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: AroCanalizador1
+    100002: AroCanalizador2
+    100004: AroPrimario1
+    100006: AroPrimerio2
+    100008: AroSecundario1
+    100010: AroSecundario2
+    100012: Asa_Dir
+    100014: Asa_Esq
+    100016: BaseNave_Dir
+    100018: BaseNave_Esq
+    100020: BaseNave_Front
+    100022: EsferaTurbina
+    100024: GiroTurbinaSecundario_GRP
+    100026: GiroTurbindaGrande_GRP
+    100028: GloboCanalizador
+    100030: Laser
+    100032: NaveBase_Back
+    100034: StarShip
+    100036: //RootNode
+    400000: AroCanalizador1
+    400002: AroCanalizador2
+    400004: AroPrimario1
+    400006: AroPrimerio2
+    400008: AroSecundario1
+    400010: AroSecundario2
+    400012: Asa_Dir
+    400014: Asa_Esq
+    400016: BaseNave_Dir
+    400018: BaseNave_Esq
+    400020: BaseNave_Front
+    400022: EsferaTurbina
+    400024: GiroTurbinaSecundario_GRP
+    400026: GiroTurbindaGrande_GRP
+    400028: GloboCanalizador
+    400030: Laser
+    400032: NaveBase_Back
+    400034: StarShip
+    400036: //RootNode
+    2300000: AroCanalizador1
+    2300002: AroCanalizador2
+    2300004: AroPrimario1
+    2300006: AroPrimerio2
+    2300008: AroSecundario1
+    2300010: AroSecundario2
+    2300012: Asa_Dir
+    2300014: Asa_Esq
+    2300016: BaseNave_Dir
+    2300018: BaseNave_Esq
+    2300020: BaseNave_Front
+    2300022: EsferaTurbina
+    2300024: GloboCanalizador
+    2300026: NaveBase_Back
+    2300028: StarShip
+    3300000: AroCanalizador1
+    3300002: AroCanalizador2
+    3300004: AroPrimario1
+    3300006: AroPrimerio2
+    3300008: AroSecundario1
+    3300010: AroSecundario2
+    3300012: Asa_Dir
+    3300014: Asa_Esq
+    3300016: BaseNave_Dir
+    3300018: BaseNave_Esq
+    3300020: BaseNave_Front
+    3300022: EsferaTurbina
+    3300024: GloboCanalizador
+    3300026: NaveBase_Back
+    3300028: StarShip
+    4300000: Asa_Esq
+    4300002: Asa_Dir
+    4300004: BaseNave_Dir
+    4300006: BaseNave_Esq
+    4300008: NaveBase_Back
+    4300010: BaseNave_Front
+    4300012: EsferaTurbina
+    4300014: StarShip
+    4300016: AroPrimario1
+    4300018: AroPrimerio2
+    4300020: AroSecundario2
+    4300022: AroSecundario1
+    4300024: GloboCanalizador
+    4300026: AroCanalizador1
+    4300028: AroCanalizador2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .400000006
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
